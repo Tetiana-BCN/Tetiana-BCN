@@ -29,7 +29,8 @@ Welcome to my GitHub profile, where I share personal, collaborative, and trainin
 
 I'm always open to collaborations, feedback, and opportunities to grow as a developer!
 
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/tetianav)
+-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/tetianav)
+
 
 ---
 
