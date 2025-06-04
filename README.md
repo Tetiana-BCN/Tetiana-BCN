@@ -31,6 +31,11 @@ I'm always open to collaborations, feedback, and opportunities to grow as a deve
 
 -[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/tetianav)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/yourusername)
+
+<a href="https://linkedin.com/in/yourusername" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="24" height="24" />
+</a>
 
 ---
 
