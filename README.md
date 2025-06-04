@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hello, world! I'm Tetiana V 💻🚀
 
-<!--
-**Tetiana-BCN/Tetiana-BCN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile, where I share personal, collaborative, and training-based projects in web development.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🌱 I’m currently learning **Full Stack Web Development**, with a focus on **JavaScript** (Node.js, React) and **Spring Boot** for Java back-end development.
+- 📚 I’ve completed hands-on training in modern web technologies and am continuously building real-world applications to strengthen my skills.
+- 🔧 My current tech stack includes:
+  - **Frontend:** HTML, CSS, JavaScript, React
+  - **Backend:** Java, Spring Boot, REST APIs
+  - **Tools:** Git, GitHub, Postman, PostgreSQL, Jira, VS Code, Figma
+
+---
+
+## 🎯 Goals & Interests
+
+- 🚀 Build scalable and maintainable full stack applications
+- 💬 Collaborate on open-source projects that make a difference
+- 🧠 Learn more about **DevOps**, **cloud deployment (AWS, Docker)**, and **microservices**
+- 📈 Improve my problem-solving skills through challenges (e.g., Hackatons)
+
+---
+
+
+## 🤝 Let's Connect
+
+I'm always open to collaborations, feedback, and opportunities to grow as a developer!
+
+- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/tetianav)
+
+---
+
+Thanks for visiting my profile! ⭐ Feel free to check out my repositories below.
